@@ -32,9 +32,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 5,
-    "xp": 100,
+    "xp": 110,
     "password": "10189",
     "logs": [
+      {
+        "type": "add",
+        "amt": 10,
+        "reason": "عطاني مسواكه واخذه مني بكل ادب اخوي مؤدب ",
+        "emoji": "shy",
+        "time": "2026-02-11T13:00:36.089Z"
+      },
       {
         "type": "add",
         "amt": 100,
