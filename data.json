@@ -31,10 +31,17 @@
     "colorText": "#ffffffff",
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
-    "level": 4,
-    "xp": 175,
+    "level": 5,
+    "xp": 0,
     "password": "10189",
     "logs": [
+      {
+        "type": "add",
+        "amt": 25,
+        "reason": "عززلي وفزعلي بالقروب",
+        "emoji": "angry",
+        "time": "2026-02-11T12:58:51.916Z"
+      },
       {
         "type": "add",
         "amt": 725,
