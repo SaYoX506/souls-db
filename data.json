@@ -1,0 +1,54 @@
+{
+  "hxkn": {
+    "id": "hxkn",
+    "name": "h.xkn",
+    "avatar": "",
+    "banner": "",
+    "avatarUrl": "https://raw.githubusercontent.com/SaYoX506/souls-website/main/public/useravatarandbanner/hxkn_avatar_1770731127221.jpeg",
+    "bannerUrl": "",
+    "colorGlow": "#ffffffff",
+    "colorText": "#ffffffff",
+    "colorBar": "#0061feff",
+    "colorBg": "#000000ff",
+    "level": 0,
+    "xp": 0,
+    "password": "1111",
+    "logs": [],
+    "rewards": {},
+    "status": {
+      "emoji": "1019-c-cry.gif",
+      "text": ""
+    }
+  },
+  "chidori": {
+    "id": "chidori",
+    "name": "Luffy",
+    "avatar": "",
+    "banner": "",
+    "avatarUrl": "https://raw.githubusercontent.com/SaYoX506/souls-website/main/public/useravatarandbanner/chidori_avatar_1770745841709.webp",
+    "bannerUrl": "https://raw.githubusercontent.com/SaYoX506/souls-website/main/public/useravatarandbanner/chidori_banner_1770730132135.gif",
+    "colorGlow": "#ffffffff",
+    "colorText": "#ffffffff",
+    "colorBar": "#ffffffff",
+    "colorBg": "#000000ff",
+    "level": 4,
+    "xp": 175,
+    "password": "10189",
+    "logs": [
+      {
+        "type": "add",
+        "amt": 725,
+        "reason": "4 u my soul",
+        "emoji": "peace",
+        "time": "2026-02-10T13:23:49.934Z"
+      }
+    ],
+    "rewards": {
+      "4": "kiss on checks  , %20 bouns xp for 24h"
+    },
+    "status": {
+      "emoji": "99614-sugoi.gif",
+      "text": "Caffen ..."
+    }
+  }
+}
