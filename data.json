@@ -32,9 +32,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 5,
-    "xp": 130,
+    "xp": 160,
     "password": "1212",
     "logs": [
+      {
+        "type": "add",
+        "amt": 30,
+        "reason": "ماجلخ عشانيي ",
+        "emoji": "ramkiss",
+        "time": "2026-02-12T17:30:28.183Z"
+      },
       {
         "type": "sub",
         "amt": 15,
@@ -73,7 +80,7 @@
       {
         "type": "add",
         "amt": 25,
-        "reason": "عززلي وفزعلي بالقروب",
+        "reason": "عززلي وفزعلي بال��روب",
         "emoji": "angry",
         "time": "2026-02-11T12:58:51.916Z"
       },
