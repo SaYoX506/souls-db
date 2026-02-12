@@ -32,9 +32,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 5,
-    "xp": 160,
+    "xp": 165,
     "password": "1212",
     "logs": [
+      {
+        "type": "add",
+        "amt": 5,
+        "reason": "اسلوبه حلو ويحبني",
+        "emoji": "cool",
+        "time": "2026-02-12T17:31:08.356Z"
+      },
       {
         "type": "add",
         "amt": 30,
