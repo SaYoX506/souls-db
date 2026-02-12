@@ -32,9 +32,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 5,
-    "xp": 145,
+    "xp": 130,
     "password": "1212",
     "logs": [
+      {
+        "type": "sub",
+        "amt": 15,
+        "reason": "زعلتني ب كم شي اليوم و شلت بخاطري بس عادي",
+        "emoji": "kannasip",
+        "time": "2026-02-12T10:37:59.432Z"
+      },
       {
         "type": "add",
         "amt": 5,
