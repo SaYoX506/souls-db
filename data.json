@@ -31,10 +31,17 @@
     "colorText": "#ffffffff",
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
-    "level": 5,
-    "xp": 165,
+    "level": 6,
+    "xp": 40,
     "password": "1212",
     "logs": [
+      {
+        "type": "add",
+        "amt": 100,
+        "reason": "قدرني وصار يحسن النيه فيني والله قليله",
+        "emoji": "kaorukocute",
+        "time": "2026-02-14T19:45:56.861Z"
+      },
       {
         "type": "add",
         "amt": 5,
