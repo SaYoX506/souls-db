@@ -32,9 +32,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 40,
+    "xp": 25,
     "password": "1212",
     "logs": [
+      {
+        "type": "sub",
+        "amt": 15,
+        "reason": "يسبني ويتكلم علي",
+        "emoji": "megumin",
+        "time": "2026-02-14T19:56:17.687Z"
+      },
       {
         "type": "add",
         "amt": 100,
