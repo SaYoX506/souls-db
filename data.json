@@ -22,7 +22,9 @@
         "time": "2026-02-15T20:51:31.119Z"
       }
     ],
-    "rewards": {},
+    "rewards": {
+      "5": "Im gona kiss you"
+    },
     "status": {
       "emoji": "14698-huh.gif",
       "text": "Talk with my soul"
