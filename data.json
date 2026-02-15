@@ -32,9 +32,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 25,
+    "xp": 40,
     "password": "1212",
     "logs": [
+      {
+        "type": "add",
+        "amt": 15,
+        "reason": "يحفزني و يحبني وبيذاكر لي فيزياء بعد ",
+        "emoji": "kannafrustrated",
+        "time": "2026-02-15T20:44:57.257Z"
+      },
       {
         "type": "sub",
         "amt": 15,
