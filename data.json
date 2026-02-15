@@ -12,12 +12,12 @@
     "colorBg": "#000000ff",
     "level": 0,
     "xp": 0,
-    "password": "1",
+    "password": "bandar676",
     "logs": [],
     "rewards": {},
     "status": {
-      "emoji": "1019-c-cry.gif",
-      "text": ""
+      "emoji": "14698-huh.gif",
+      "text": "Talk with my soul"
     }
   },
   "chidori": {
@@ -32,16 +32,9 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 40,
+    "xp": 25,
     "password": "1212",
     "logs": [
-      {
-        "type": "add",
-        "amt": 15,
-        "reason": "يحفزني و يحبني وبيذاكر لي فيزياء بعد ",
-        "emoji": "kannafrustrated",
-        "time": "2026-02-15T20:44:57.257Z"
-      },
       {
         "type": "sub",
         "amt": 15,
@@ -122,9 +115,8 @@
     ],
     "rewards": {
       "4": "kiss on checks  , %20 bouns xp for 24h",
-      "5": "i.sw** full letters coming soon in lvl 7",
-      "6": "تسالني اي سؤال واحلف لك اني بجاوبه صدق وبدون لكاعه",
-      "7": "full letters of i.sw**"
+      "5": "i.sw** full letters coming soon in lvl 6",
+      "6": "تسالني اي سؤال واحلف لك اني بجاوبه صدق وبدون لكاعه"
     },
     "status": {
       "emoji": "47997-thinking.png",
