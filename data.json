@@ -10,10 +10,18 @@
     "colorText": "#ffffffff",
     "colorBar": "#0061feff",
     "colorBg": "#000000ff",
-    "level": 0,
-    "xp": 0,
+    "level": 5,
+    "xp": 138,
     "password": "bandar676",
-    "logs": [],
+    "logs": [
+      {
+        "type": "add",
+        "amt": 888,
+        "reason": "حق الموقع والشغل الرهيب وهيك 😍😍.",
+        "emoji": "kannarain",
+        "time": "2026-02-15T20:51:31.119Z"
+      }
+    ],
     "rewards": {},
     "status": {
       "emoji": "14698-huh.gif",
