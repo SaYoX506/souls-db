@@ -44,9 +44,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 25,
+    "xp": 125,
     "password": "1212",
     "logs": [
+      {
+        "type": "add",
+        "amt": 100,
+        "reason": "ذاكر لي فيزياء ورقميه و ساعدني ب اشياء كثييير واحبه مره وكلامه حلو",
+        "emoji": "aiet",
+        "time": "2026-02-17T16:56:07.597Z"
+      },
       {
         "type": "sub",
         "amt": 15,
