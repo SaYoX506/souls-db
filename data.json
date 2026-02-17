@@ -10,10 +10,17 @@
     "colorText": "#ffffffff",
     "colorBar": "#0061feff",
     "colorBg": "#000000ff",
-    "level": 5,
-    "xp": 138,
+    "level": 4,
+    "xp": 88,
     "password": "bandar676",
     "logs": [
+      {
+        "type": "sub",
+        "amt": 250,
+        "reason": "طارح احمد ومسكو عليه كلصقات وطلع هطف",
+        "emoji": "photo",
+        "time": "2026-02-17T16:59:22.236Z"
+      },
       {
         "type": "add",
         "amt": 888,
@@ -71,7 +78,7 @@
       {
         "type": "add",
         "amt": 5,
-        "reason": "اسلوبه حلو ويحبني",
+        "reason": "��سلوبه حلو ويحبني",
         "emoji": "cool",
         "time": "2026-02-12T17:31:08.356Z"
       },
