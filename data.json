@@ -11,9 +11,16 @@
     "colorBar": "#0061feff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 13,
+    "xp": 43,
     "password": "bandar676",
     "logs": [
+      {
+        "type": "add",
+        "amt": 30,
+        "reason": "يحبني ولا يرد لي طلب 🥺❤️❤️",
+        "emoji": "gun",
+        "time": "2026-02-26T14:37:18.097Z"
+      },
       {
         "type": "add",
         "amt": 350,
