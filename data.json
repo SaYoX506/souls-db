@@ -72,9 +72,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 7,
-    "xp": 250,
+    "xp": 260,
     "password": "1212",
     "logs": [
+      {
+        "type": "add",
+        "amt": 10,
+        "reason": "خليتني احب يدك",
+        "emoji": "foreheadkiss",
+        "time": "2026-02-27T22:05:28.987Z"
+      },
       {
         "type": "add",
         "amt": 25,
