@@ -11,9 +11,16 @@
     "colorBar": "#b51a00ff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 28,
+    "xp": 88,
     "password": "bandar676",
     "logs": [
+      {
+        "type": "add",
+        "amt": 60,
+        "reason": "صح ضايقتني شوي بس والله اسعدتني ومن افضل الطلعات",
+        "emoji": "pat",
+        "time": "2026-02-27T23:31:08.460Z"
+      },
       {
         "type": "sub",
         "amt": 15,
