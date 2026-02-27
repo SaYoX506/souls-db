@@ -11,9 +11,16 @@
     "colorBar": "#b51a00ff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 43,
+    "xp": 28,
     "password": "bandar676",
     "logs": [
+      {
+        "type": "sub",
+        "amt": 15,
+        "reason": "سهران وضر نفسه وعيونه ",
+        "emoji": "smoke",
+        "time": "2026-02-27T14:23:36.710Z"
+      },
       {
         "type": "add",
         "amt": 30,
