@@ -78,10 +78,17 @@
     "colorText": "#ffffffff",
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
-    "level": 7,
-    "xp": 260,
+    "level": 8,
+    "xp": 0,
     "password": "1212",
     "logs": [
+      {
+        "type": "add",
+        "amt": 15,
+        "reason": "يكرهني",
+        "emoji": "lick",
+        "time": "2026-02-28T02:47:09.425Z"
+      },
       {
         "type": "add",
         "amt": 10,
