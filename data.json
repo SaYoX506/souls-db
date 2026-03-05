@@ -11,9 +11,16 @@
     "colorBar": "#b51a00ff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 88,
+    "xp": 103,
     "password": "bandar676",
     "logs": [
+      {
+        "type": "add",
+        "amt": 15,
+        "reason": "حلف مايدخن اخخخ تربيتي 🥹",
+        "emoji": "stare",
+        "time": "2026-03-05T00:40:01.539Z"
+      },
       {
         "type": "add",
         "amt": 60,
