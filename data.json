@@ -11,9 +11,16 @@
     "colorBar": "#b51a00ff",
     "colorBg": "#000000ff",
     "level": 6,
-    "xp": 133,
+    "xp": 68,
     "password": "bandar676",
     "logs": [
+      {
+        "type": "sub",
+        "amt": 65,
+        "reason": "يسوي نفسه زعلان بدون سبب وانا المفروض الي ازعل",
+        "emoji": "smoke",
+        "time": "2026-03-15T21:00:16.647Z"
+      },
       {
         "type": "add",
         "amt": 30,
@@ -113,7 +120,7 @@
       {
         "type": "add",
         "amt": 10,
-        "reason": "خليتني احب يدك",
+        "reason": "خليتني ا��ب يدك",
         "emoji": "foreheadkiss",
         "time": "2026-02-27T22:05:28.987Z"
       },
@@ -155,7 +162,7 @@
       {
         "type": "add",
         "amt": 5,
-        "reason": "��سلوبه حلو ويحبني",
+        "reason": "��سلو��ه حلو ويحبني",
         "emoji": "cool",
         "time": "2026-02-12T17:31:08.356Z"
       },
