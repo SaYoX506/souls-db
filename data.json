@@ -100,9 +100,16 @@
     "colorBar": "#ffffffff",
     "colorBg": "#000000ff",
     "level": 9,
-    "xp": 0,
+    "xp": 250,
     "password": "1212",
     "logs": [
+      {
+        "type": "add",
+        "amt": 250,
+        "reason": "عيدك مبارك + شكراً تطارحت ولعبت كوره معي احبك والله",
+        "emoji": "backshots",
+        "time": "2026-03-20T23:50:55.921Z"
+      },
       {
         "type": "add",
         "amt": 300,
